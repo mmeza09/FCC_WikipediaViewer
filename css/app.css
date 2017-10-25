@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Crete+Round');
+body{
+    font-family: 'Crete Round', serif;
+}
+img{
+    width: 30%;
+    height: 10%;
+}
+#search-box:focus{
+    border-color:dimgrey;
+}
